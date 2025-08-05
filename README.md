@@ -2,9 +2,8 @@
 <h3 align="center">💻 Full Stack Developer | 🛠️ Software Engineer | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1BA098&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=💡+Passionate+Full+Stack+Developer;🚀+Crafting+Robust+Web+Applications;✅+Clean+Code+%7C+Performance+%7C+User+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1BA098&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=💡+Passionate+Full+Stack+Developer;🚀+Crafting+Robust+Web+Applications" alt="Typing SVG" />
 </p>
-
 
 ---
 
