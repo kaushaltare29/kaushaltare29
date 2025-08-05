@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Kaushal Tare</h1>
-<h3 align="center">Full Stack Developer | Computer Engineering Student | Passionate Builder</h3>
+<h3 align="center">💻 Full Stack Developer | 🛠️ Software Engineer | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushaltare&label=Profile%20views&color=0e75b6&style=flat" alt="kaushaltare" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1BA098&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Full+Stack+Developer;Crafting+Robust+Web+Applications;Clean+Code+%7C+Performance+%7C+User+Experience" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
 
-- 🎓 I'm currently in Final Year of **Computer Engineering**
-- 💼 Full Stack Developer with hands-on experience in real-world projects
-- 🔭 Currently working on: **Project Management System**, **Job Portal**, and **Career Guide**
-- 🌱 Exploring advanced topics like System Design, Clean Architecture, and Web Performance
-- 💬 Ask me about **MERN Stack, TypeScript, Tailwind, REST APIs, Clerk, Supabase, Next.js**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourusername) | [Gmail](mailto:kaushaltare123@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1BA098&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Full+Stack+Developer;Crafting+Robust+Web+Applications;Clean+Code+%7C+Performance+%7C+User+Experience" alt="Typing SVG" />
+</p>
+
+---
+### 🔍 About Me
+
+- 🎓 Final Year Computer Engineering Student @ VCET, Mumbai  
+- 💼 Looking for opportunities as a **Full Stack Developer** or **Software Engineer**
+- 💻 I build scalable, clean, and performant web applications using **React**, **Node.js**, **Express**, and **MongoDB**
+- 📦 Experienced in full project lifecycle: From planning → development → deployment
+- 🌐 I love building projects with intuitive UI & solid backend integration
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaushal-tare-ba192325b) | [Gmail](mailto:kaushaltare45@gmail.com)
 - ⚡ Fun fact: I love solving real-world problems using code!
 
 ---
@@ -25,8 +31,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
 
 #### Frontend
 <p align="left">
@@ -42,9 +50,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
+
 
 #### Tools & Platforms
 <p align="left">
@@ -54,37 +64,43 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clerk.dev-3C3C3C?style=for-the-badge&logo=clerk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushaltare29&show_icons=true&theme=radical" alt="Kaushal's GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushaltare&show_icons=true&theme=radical" alt="kaushaltare stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushaltare29&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushaltare&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaltare29&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 📌 Projects
-
-- 🚀 **KareerAI** – Career guide platform with resume builder, insights, testimonials (Next.js + Tailwind + PostgreSQL)
-- 💼 **Job Portal** – Role-based job board with recruiter & candidate flows, resume upload (Supabase + Clerk + React)
-- 📋 **Inventory Management System** – Product & stock tracker with CRUD, charts (MERN + TypeScript)
-- 🧠 **Smart Project Manager** – AI-free task management tool using meetings + summarization (Next.js + Inngest)
 
 ---
 
-### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 💌 [Gmail](mailto:kaushaltare123@gmail.com)
-- 🖥️ [Portfolio Website (optional)](https://yourwebsite.com)
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:kaushaltare45@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaushal-tare-ba192325b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Kaushaltare/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
 
 ---
 
